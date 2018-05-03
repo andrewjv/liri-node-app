@@ -1,4 +1,4 @@
-console.log('this is loaded');
+//if node argument is empty, spotify will search The Sign by Ace of Base
 
 exports.twitter = {
   consumer_key: process.env.TWITTER_CONSUMER_KEY,
